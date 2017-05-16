@@ -1,6 +1,7 @@
 package com.example.services;
 
 import com.example.Dtos.CarDto;
+import com.example.classes.Car;
 import com.example.repository.CarRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
